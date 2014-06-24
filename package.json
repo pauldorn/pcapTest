@@ -1,0 +1,17 @@
+{
+  "name": "pcapTest",
+  "version": "0.0.0",
+  "description": "Testing pcap on windows",
+  "main": "index.js",
+  "dependencies": {
+    "cap": "0.0.8",
+    "mac-address": "^0.3.0",
+    "raw-socket": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
