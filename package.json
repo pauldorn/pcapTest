@@ -4,7 +4,7 @@
   "description": "Testing pcap on windows",
   "main": "index.js",
   "dependencies": {
-    "cap": "0.0.8",
+    "cap": "git://github.com/pauldorn/cap.git",
     "mac-address": "^0.3.0",
     "raw-socket": "^1.2.2"
   },
